@@ -1,0 +1,4 @@
+Install Project3-DDClass.py in any location. Navigate to this directory in Windows Powershell, *not* Powershell ISE.
+Enter "python Project3-DDClass.py" on the command line.
+DDClass.py will ask you a few questions, please respond to them with a, b, c, d, or e.
+It will return with a D&D class suggestion, or tally the choices picked and suggest multi-classing.
