@@ -1,3 +1,6 @@
+#The idea for this quiz comes in part from a 'hogwarts sorting hat' found here: https://replit.com/@kellylougheed/Sorting-Hat#main.py
+#Edited to change context of quiz and to demonstrate modularity.
+
 #Define character classes and introduce topic of quiz.
 Fighter = 0
 Rogue = 0
